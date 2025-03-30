@@ -13,6 +13,7 @@ def fizzbuzz(count)
     end
     i += 1
   end
+  
 end
 
 puts "Please enter a number for me to count to! :)"
